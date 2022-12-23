@@ -1,4 +1,4 @@
-# personal-port-scanner-project
+# port-scanner-project
 Here, I have made a port scanner using Python3. We can use this port scanner to probe a scan the server or host for open ports.
 The open ports can then be used by the system administrator to review as security concerns and solve them. These ports can also be used by the hackers to gain access to uncontrolled ports on a system. Then the ports can be used to exploit vulnerabilities and try to get access of the whole website.
 
